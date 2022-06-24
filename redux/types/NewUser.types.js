@@ -1,0 +1,2 @@
+export const SET_BPOST_STATE = 'SET_BPOST_STATE';
+export const SET_USER_ERROR = 'SET_USER_ERROR';

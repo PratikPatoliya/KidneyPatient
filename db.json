@@ -1,0 +1,20 @@
+{
+  "newUser": [
+    {
+      "id": 1,
+      "name": "pratik",
+      "mobile": 1234567890,
+      "email": "p05@gmail.com",
+      "dob": "05-11-1999",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "pratik",
+      "mobile": 1234567890,
+      "email": "p05@gmail.com",
+      "dob": "05-11-1999",
+      "gender": "male"
+    }
+  ]
+}
